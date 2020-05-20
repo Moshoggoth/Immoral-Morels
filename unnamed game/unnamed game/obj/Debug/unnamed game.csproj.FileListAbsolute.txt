@@ -1,0 +1,15 @@
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\bin\Debug\unnamed game.exe.config
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\bin\Debug\unnamed game.exe
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\bin\Debug\unnamed game.pdb
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed game.csprojAssemblyReference.cache
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\MainWindow.g.cs
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\App.g.cs
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed game_MarkupCompile.cache
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed game_MarkupCompile.lref
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\MainWindow.baml
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed game.g.resources
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed_game.Properties.Resources.resources
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed game.csproj.GenerateResource.cache
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed game.csproj.CoreCompileInputs.cache
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed game.exe
+C:\Users\Nyx\source\repos\unnamed game\unnamed game\obj\Debug\unnamed game.pdb

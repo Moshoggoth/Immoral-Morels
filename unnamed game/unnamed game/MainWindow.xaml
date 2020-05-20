@@ -1,0 +1,48 @@
+﻿<Window x:Class="unnamed_game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:unnamed_game"
+        mc:Ignorable="d"
+        Title="Immoral Morels" Height="330" Width="730" MinHeight="330" MinWidth="730"  ResizeMode="CanResize" Margin="0,4,0,0">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="menubackground.png" Stretch="UniformToFill" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="Play" Content="Play" Grid.Column="1" Grid.Row="5" Width="81" Height="28" HorizontalAlignment="Center" VerticalAlignment="Top" BorderThickness="3" ClipToBounds="True" FontFamily="Sitka Text" FontSize="18" Click="Play_Click" TextOptions.TextFormattingMode="Display" Background="#FF8FBBAF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="Options" Content="Options" Grid.Column="1" Grid.Row="7" Width="81" Height="28" HorizontalAlignment="Center" VerticalAlignment="Top" BorderThickness="3" ClipToBounds="True" FontFamily="Sitka Text" FontSize="18" Click="Options_Click" TextOptions.TextFormattingMode="Display" Background="#FF8FBBAF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="Quit" Content="Quit" Grid.Column="1" Grid.Row="9" Width="81" Height="28" HorizontalAlignment="Center" VerticalAlignment="Top" BorderThickness="3" ClipToBounds="True" FontFamily="Sitka Text" FontSize="18" Click="Quit_Click" TextOptions.TextFormattingMode="Display" Background="#FF8FBBAF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+    </Grid>
+</Window>
